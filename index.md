@@ -8,28 +8,36 @@ layout: default
 
 
 
-# WeNote
-
-fine weather-----Simple and convenient weather forecast, give you a good mood for the day. -
+# Easy Picture Editing
 
 [中文](./zhcn)
 
-# Typical use-cases
 
-1. For simple and smooth control of weather conditions
 
-# How to use
+【Easy Picture Editing】 app is a easy-to-use image editor that can enhance your photos in seconds.It also provides a simple canvas to help you record your creations for inspiration.
 
-#  Settings
-1. Allow access to location information
+# ◈ Key Features: ◈
 
-2. Allow access to the network 
 
-## Usage
 
-1、 in the main interface pull, search the city, easy to modify the city
+- Simple sketchboard
+- Tune your image to adjust exposure and colour manually with fine, precise control
+- 20 amazing effects/filters: Vignette, Process, Chrome, Noir, Invert, Highlight, Pixellate etc.
+- Background blur will make your photo more beautiful like take from DSLR digital camera
+- Crop to standard sizes or freely
+- Rotate by 90° or any angle
+- Add both stylised or plain text (50+ predefined styles)
+- Share photos to other social media sites instantly
+- Save photos to Photo Library
+- Print photos
 
-2、Drop-down view more detailed weather information 
+# ◈Comments and feedback are welcomed.◈
+
+
+
+What feature is missing? What bug have you found? Tell us:
+
+WeChat: customer_service4app
 
 
 
