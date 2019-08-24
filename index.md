@@ -41,7 +41,11 @@ WeChat: customer_service4app
 
 
 
-# For more technical support, you can contact me here https://ihtcboy.com
+# [For more technical support, you can contact me here ](https://ihtcboy.com)
+
+#  [https://ihtcboy.com/](https://ihtcboy.com)
+
+
 
 
 
