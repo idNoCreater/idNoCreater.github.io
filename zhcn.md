@@ -26,7 +26,7 @@ override_description : 易于使用的图像编辑器，可以在几秒钟内增
 
 # ◈ 欢迎评论和反馈◈
 
-
+![](Wechat.jpeg)
 
 如果您发现缺少什么功能？或者发现了什么错误？欢迎告诉我们：
 微信号: customer_service4app

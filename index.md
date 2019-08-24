@@ -35,6 +35,8 @@ layout: default
 
 
 
+![](Wechat.jpeg)
+
 What feature is missing? What bug have you found? Tell us:
 
 WeChat: customer_service4app
