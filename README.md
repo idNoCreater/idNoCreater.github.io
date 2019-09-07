@@ -112,3 +112,4 @@ Paste Inputting is an iOS keyboard app that used to input words in pasteboard.
 # Easily-Edit-Images.github.io
 # Task-Walls.github.ios
 # Task-Walls.github.io
+# Design-Your-Quotes.github.io
