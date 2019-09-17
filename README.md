@@ -119,3 +119,4 @@ Paste Inputting is an iOS keyboard app that used to input words in pasteboard.
 # Sudo-Prime-Fun.github.io
 # Sudoku-Puzzles.github.io
 # Sudoku-Puzzles.github.io
+# Moral-of-the-Story.github.io
